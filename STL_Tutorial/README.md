@@ -1,0 +1,2 @@
+This Git shows the STL usages. These codes are written when studying the Udemy Course C++ STL by Packt Publishing.
+Most of the codes are taken from this course. I suggest it to anyone who is curious about STL.
